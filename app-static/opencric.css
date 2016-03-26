@@ -1,0 +1,300 @@
+/**
+* OpenCric by Miraz Mac
+* @version 2.0
+* @package OpenCric
+* @author Miraz Mac <mirazmac@gmail.com>
+* @license The MIT License
+* @link http://mirazmac.info
+*/
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+*{
+	outline: none!important;
+}
+::-moz-selection{
+	background: #50C7FF;
+	color: #fff;
+}
+::selection{
+	background: #50C7FF;
+	color: #fff;
+}
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body{
+	line-height: 1.2em;
+	font-family: 'Lato', sans-serif;
+	background-color: #D4D4D4;
+    color: #222;
+	font-smooth: always;
+	    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+}
+a{
+	color: blue;text-decoration: none;
+}
+img{
+	max-width: 100%;height: auto;
+}
+#header{
+background: #FFF none repeat scroll 0% 0%;
+padding: 8px 15px 6px;
+border-top: 3px solid #50C7FF;
+overflow: hidden;
+}
+#header a.facebook_btn_right{
+float: right;
+display: block;
+background: #3b5998;
+padding: 6px 12px;
+color: #fff;
+margin-top: -4px;
+border-radius: 2px;
+border-bottom: 2px solid rgba(0, 0, 0, 0.26);
+}
+.wrap{
+background: #FFF none repeat scroll 0% 0%;
+overflow: hidden;
+padding: 0px;
+box-shadow: 0px 1px 3px rgba(47, 46, 46, 0.37);
+margin: 5px 5px 8px;
+}
+.wrap .heading{
+font-size: 17px;
+font-weight: 700;
+padding: 8px 12px;
+background: #50C7FF;
+color: rgb(255, 255, 255);
+}
+.wrap .match_list{
+	padding: 8px;
+border-bottom: 1px solid #F0F0F0;
+margin: 0px 4px;
+}
+.wrap .match_list:last-child{
+	border-bottom: none;
+}
+.wrap .isLiveY{
+	background-image: url("liveIcon.png");
+background-repeat: no-repeat;
+background-position: 98% 10px;
+}
+.wrap h3.teamNames{
+	font-size: 17px;
+font-weight: 700;
+padding: 1px 0px 6px;
+color: #555
+}
+.wrap h3 a{
+	color: #555
+}
+.wrap div.scoreText{
+	padding: 3px 0px;
+}
+.wrap div.scoreText h3{
+	display: block;
+	color: #787878;
+	padding: 3px 0px;
+	font-size: 16px;
+	font-weight: 400
+}
+.wrap div.scoreText span.team1abbr{
+	color: #cc0000;
+	font-size: 16px;
+text-transform: uppercase;
+font-weight: 700;
+}
+.wrap div.scoreText span.team2abbr{
+	color: #3465a4;
+	font-size: 16px;
+text-transform: uppercase;
+font-weight: 700;
+}
+.wrap p.resultText{
+	color: #4e9a06
+}
+.wrap span.start_string{
+	display: block;
+color: #787878;
+}
+.wrap a.full_score_btn{
+display: block;
+color: #FFF;
+background: #16CB52 none repeat scroll 0% 0%;
+padding: 6px 2px;
+text-align: center;
+margin: 7px 0px 0px;
+border-bottom: 3px solid rgba(0, 0, 0, 0.13);
+border-radius: 2px;
+}
+.wrap a.ball_by_ball_btn{
+display: block;
+color: #fff;
+background: #5F5F5F none repeat scroll 0% 0%;
+padding: 6px 2px;
+text-align: center;
+margin: 7px 0px 0px;
+border-bottom: 3px solid rgba(0, 0, 0, 0.13);
+border-radius: 2px;
+}
+a.btn:hover{
+	opacity: .8;
+}
+a.refreshIcon{
+	float: right;
+margin: 2px 0px 0px;
+clear: both;
+}
+/* Latest News */
+.wrap .news_list{
+	padding: 8px;
+border-bottom: 1px solid #F0F0F0;
+margin: 0px 4px;
+}
+.wrap div.news_list h3{
+display: block;
+color: #787878;
+padding: 3px 0px;
+font-size: 17px;
+font-weight: 700;
+}
+.wrap div.news_list span.newsDate{
+	color: grey;font-size: 13px
+}
+.sorry{
+	background: rgb(255, 254, 186) none repeat scroll 0% 0%;
+padding: 8px;
+border: 1px solid rgb(255, 227, 177);
+margin: 3px;
+font-size: 14px;
+text-align: center;
+color: rgb(147, 103, 38);
+border-radius: 2px;
+}
+#footer{
+background: #696969 none repeat scroll 0% 0%;
+color: #FFF;
+padding: 12px 8px;
+text-align: center;
+font-size: 13px
+}
+#footer a{
+	color: #fff;
+}
+
+/* Match Details */
+.wrap .status{
+padding: 6px 10px;
+background: #F5F5F5 none repeat scroll 0% 0%;
+color: #868383;
+border-top: 1px solid #EDEDED;
+}
+.wrap .current_score{
+	padding: 6px 10px;
+font-size: 17px;
+font-weight: 700;
+color: rgb(85, 85, 85);
+}
+table.b_table{
+	display: table;width: 100%;
+}
+table.b_table thead tr th{
+color: #534E4E;
+padding: 6px;
+background: #E6E6E6 none repeat scroll 0% 0%;
+border-right: 1px solid rgb(198, 198, 198);
+font-size: 14px;
+}
+table.b_table thead tr th:last-child{
+	border-right: none;
+}
+table.b_table tbody tr{
+	border-bottom: 1px solid #ddd
+}
+table.b_table tbody tr:last-child{
+	border-bottom: none;
+}
+table.b_table tbody tr th{
+padding: 6px;
+text-align: center;
+background: #fff;
+border-right: 1px solid rgb(204, 204, 204);
+color: rgb(71, 71, 71);
+}
+table.b_table tbody tr th:last-child{
+	border-right: none;
+}
+span.current{
+	color: red;
+	font-weight: 700;
+}
+.wrap .ground_map{
+	padding: 4px 5px 0px;
+background: #f5f5f5;
+}
+.wrap .ground_map img{
+	background: #fff
+}
+.wrap .player_list{
+	padding: 8px;
+border-bottom: 1px solid #F0F0F0;
+margin: 0px 4px;
+}
+.wrap span.captain{
+background: #FEBC00 none repeat scroll 0% 0%;
+display: inline-block;
+padding: 2px 7px;
+float: right;
+color: #504E4E;
+margin: -3px 0px 0px;
+border-radius: 2px;
+font-size: 13px;
+border-bottom: 2px solid rgba(0, 0, 0, 0.16);
+font-weight: 700;
+}

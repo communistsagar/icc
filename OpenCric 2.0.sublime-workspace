@@ -1,0 +1,906 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"in",
+				"inline-table"
+			],
+			[
+				"ma",
+				"matchDetails"
+			],
+			[
+				"fe",
+				"feedItems"
+			],
+			[
+				"crick",
+				"cricketNews"
+			],
+			[
+				"rss",
+				"rssContents"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"rec",
+				"recentMatches"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"rece",
+				"recentMatch"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"live",
+				"liveMatches"
+			],
+			[
+				"liv",
+				"liveMatches"
+			],
+			[
+				"res",
+				"resp"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"gz",
+				"gzdecode"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"s",
+				"server"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"curl_e",
+				"curl_exec"
+			],
+			[
+				"ht",
+				"htmlspecialchars"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"get_te",
+				"get_template_part"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"li",
+				"links_area"
+			],
+			[
+				"op",
+				"options_pages"
+			],
+			[
+				"single",
+				"single_tag_title"
+			],
+			[
+				"fun",
+				"function_exists"
+			],
+			[
+				"get_the",
+				"get_the_category"
+			],
+			[
+				"get_b",
+				"get_bloginfo"
+			],
+			[
+				"auth",
+				"author_posts"
+			],
+			[
+				"wp_reset",
+				"wp_reset_query"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"DEFIN",
+				"defined"
+			],
+			[
+				"get_templa",
+				"get_template_part"
+			],
+			[
+				"post",
+				"post_ID"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"all",
+				"allowedExt"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"FILE",
+				"_FILES"
+			],
+			[
+				"fea",
+				"Featured"
+			],
+			[
+				"user_lo",
+				"is_user_logged_in"
+			],
+			[
+				"get_ca",
+				"get_cat_name"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"the_co",
+				"the_content"
+			],
+			[
+				"wp_reg",
+				"wp_registration_url"
+			],
+			[
+				"is_us",
+				"is_user_logged_in"
+			],
+			[
+				"c",
+				"clear	Attr"
+			],
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"head",
+				"head	Tag"
+			],
+			[
+				"WP_D",
+				"WP_DEBUG_DISPLAY"
+			],
+			[
+				"get_templte",
+				"get_template_directory_uri"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_script"
+			],
+			[
+				"foo",
+				"footer_text"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"thu",
+				"thumbnail_url"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"arr",
+				"array"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app-lib/classes/cricket.class.php",
+			"settings":
+			{
+				"buffer_size": 5572,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "detail.php",
+			"settings":
+			{
+				"buffer_size": 3251,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2737,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app-static/opencric.css",
+			"settings":
+			{
+				"buffer_size": 5252,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app-lib/footer.php",
+			"settings":
+			{
+				"buffer_size": 266,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app-lib/header.php",
+			"settings":
+			{
+				"buffer_size": 1114,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 382.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/I/wamp/www/opencric",
+		"/I/wamp/www/opencric/app-inc",
+		"/I/wamp/www/opencric/app-lib",
+		"/I/wamp/www/opencric/app-lib/classes",
+		"/I/wamp/www/opencric/app-static"
+	],
+	"file_history":
+	[
+		"/I/wamp/www/opencric/OpenCric/index.html",
+		"/D/GitHub Details.txt",
+		"/I/wamp/www/criclive-develop/DBCon.php",
+		"/I/wamp/www/opencric/index.php",
+		"/I/wamp/www/opencric/app-inc/app-config.php",
+		"/I/wamp/www/opencric/.htaccess",
+		"/I/wamp_back/www/oporadhi/.htaccess",
+		"/I/wamp_oldx/www/ametro/index.php",
+		"/I/wamp_back/www/thesearch/lib/mirazmac.class.php",
+		"/I/wamp_oldx/www/amader/index.php",
+		"/I/wamp_back/www/rss/functions.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/style.css",
+		"/I/wamp/www/opencric/app-lib/header.php",
+		"/I/wamp/www/opencric/app-lib/classes/cricket.class.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI24.140/stylesheet.css",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/homex.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/home.php",
+		"/I/wamp/www/opencric/app-static/opencric.css",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI01.844/readme.txt",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/uc.php",
+		"/C/Users/Miraz Mac/Desktop/trestle-master/functions.php",
+		"/I/wamp_back/www/opencric/lib/functions.php",
+		"/I/wamp/www/opencric/app-inc/app-init.php",
+		"/I/wamp/www/anstoqus/app-lib/classes/mirazmac.class.php",
+		"/D/Mehedi Token.txt",
+		"/I/wamp/www/opencric/image.php",
+		"/C/Users/Miraz Mac/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/I/wamp/www/opencric/app-lib/.htaccess",
+		"/I/wamp/www/opencric/app-views/footer.php",
+		"/I/wamp/www/opencric/app-views/header.php",
+		"/I/wamp/www/opencric/app-views/home.php",
+		"/I/wamp/www/anstoqus/app-inc/app-init.php",
+		"/I/wamp/www/opencric/app-views/.htaccess",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-2/style.css",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/edit-post.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/edit-post.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/functions.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/loop.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/index.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/inc/mypost.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/footer.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/inc/add-post.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/post-new.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/single.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/archive.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/options.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/style.css",
+		"/I/wamp/www/wordpress/wp-content/themes/miraz/single.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/inc/edit-post.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/dashboard.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/inc/dashboard.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/edit-profile.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI00.609/style.css",
+		"/I/wamp/www/wordpress/wp-content/themes/macnews/functions.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/header.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/author.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/search.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/index.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/page.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/post-new.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/cpanel.php",
+		"/D/Desktop/Desktop/Jcms/theme/default/style.css",
+		"/I/wamp_back/www/wordpress/wp-content/plugins/mobile-poster-mac/library/template-tags.php",
+		"/I/wamp_back/www/wordpress/wp-content/plugins/mobile-poster-mac/mobile-poster-mac.php",
+		"/I/wamp_back/www/wordpress/wp-content/plugins/mobile-poster-mac/views/submission-form.php",
+		"/I/wamp/www/wordpress/wp-content/plugins/frontier-post/frontier-add-edit.php",
+		"/I/wamp_oldx/alias/Desktop/TipsTune24.txt",
+		"/I/wamp/www/wordpress/wp-content/plugins/gravityforms196/gravityforms.php",
+		"/I/wamp/www/wordpress/wp-content/themes/tt24-mobile/sidebar.php",
+		"/C/Users/Miraz Mac/Desktop/AstroTheme/archive.php",
+		"/D/Backup Files/Desktop/loop.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI33.328/05.Homepage.txt",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI19.609/01.headtag.txt",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI29.641/02.Header-for-logged-in-user.txt",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI30.453/03.Header-for-non-logged-in-user.txt",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI51.672/38.Everything-about-edit-text.txt",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI04.031/08.pages-introduction.txt",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI00.781/01.headtag.txt",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI01.875/New Minima Colored.xml",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI07.828/Tutorial.txt",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/theme-defaults.php",
+		"/C/Users/Miraz Mac/Desktop/subel.txt",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI00.625/style.css",
+		"/C/Users/Miraz Mac/Desktop/test.html",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-2/blogroll.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-2/header.php",
+		"/I/wamp/www/wordpress/wp-content/themes/focus-pro/functions.php",
+		"/I/wamp/www/wordpress/wp-content/themes/focus-pro/lib/theme-defaults.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/functions 2.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/style 2.css",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/page_landing.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/wp-config-sample.php",
+		"/C/Users/Miraz Mac/Desktop/scr.html",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI04.407/Extractor.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI08.797/VideoConverter.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI09.891/index.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI01.594/style.css",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI04.891/footer.php",
+		"/I/wamp/www/wordpress/wp-config.php",
+		"/I/wamp/www/wordpress/wp-cron.php",
+		"/I/wamp/www/wordpress/xmlrpc.php",
+		"/C/Users/Miraz Mac/Desktop/Status",
+		"/I/wamp/www/wordpress/wp-content/themes/steadyincome/theme-options.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/options.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI00.719/dummy_data.xml",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/fz3temp-1/theme-options.php",
+		"/I/wamp/www/wordpress/wp-content/themes/voice/style.css",
+		"/I/wamp/www/wordpress/wp-content/themes/voice/footer.php",
+		"/I/wamp/www/wordpress/wp-content/themes/voice/functions.php",
+		"/I/wamp/www/wordpress/wp-content/themes/steadyincome/style.css",
+		"/I/wamp/www/wordpress/wp-content/themes/magazine-pro/style.css",
+		"/I/wamp/www/wordpress/wp-content/themes/lifestyle-pro/style.css",
+		"/I/wamp/www/wordpress/wp-content/themes/techblog-single-pro-psd/header.php",
+		"/I/wamp/www/wordpress/wp-content/themes/techblog-single-pro-psd/style.css",
+		"/C/Users/Miraz Mac/Desktop/solaimanlipi-webfont.css",
+		"/I/wamp/www/wordpress/wp-content/themes/techblog-single-pro-psd/index.php",
+		"/I/wamp/www/wordpress/wp-content/themes/techblog-single-pro-psd/functions.php",
+		"/I/wamp/www/wordpress/wp-content/themes/mirazmac-pro/functions.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI03.625/style.css",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI05.750/footer.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI07.266/functions.php",
+		"/C/Users/Miraz Mac/AppData/Local/Temp/Rar$DI00.750/mscript.php",
+		"/I/wamp/www/wordpress/wp-content/themes/mirazmac-mobile/single.php",
+		"/I/wamp/www/wordpress/wp-content/themes/mirazmac-pro/archive.php",
+		"/I/wamp/www/wordpress/wp-content/themes/mirazmac-mobile/author.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"batting_table",
+			"$bolwer",
+			"+'</th>",
+			"' +",
+			"'+value.",
+			"               '",
+			"btn",
+			"$match",
+			"        ",
+			"getWork",
+			"user_agent",
+			"grid-img",
+			"grid-image",
+			"$results",
+			"theme-textdomain",
+			"<span class=\"red\">",
+			"</p>",
+			"<p",
+			"user",
+			"miraz_pagenavi",
+			"post",
+			"alarm",
+			"select",
+			"links",
+			"mac-mobile",
+			"pre",
+			"Miraz Mac:",
+			"Muhammad Subel:",
+			"Muhammad Subel",
+			"Miraz Mac",
+			"smile emoticon",
+			".entry {",
+			"wp_enqueue_script",
+			"Primary Naviga",
+			"Site Navigation",
+			"1px dotted #ddd",
+			"comment",
+			"'before_title' => '<h4>',",
+			"sideba",
+			"content",
+			"asse",
+			"wpzoom",
+			"thub",
+			"exce",
+			"mirazmac_a",
+			"266289",
+			"style.min",
+			"TipsTune24 Options",
+			"tt-ultimate",
+			"{}\n",
+			"Lato",
+			";\n",
+			"mac-is-back",
+			"BDNews99 Options",
+			"mac-is-back",
+			"exce",
+			"ft_p",
+			"url('",
+			"#cssmenu",
+			";}\n",
+			"#nav",
+			"      array(\n            'name'      => 'WP Pagenavi',\n            'slug'      => 'wp-pagenavi',\n            'required'  => true,\n        ),"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"b_table",
+			"$bowler",
+			"</th>",
+			"",
+			"$value->",
+			"",
+			"$recentMatch",
+			"$this->getWork",
+			"ca-img",
+			"ca-image",
+			"$score",
+			"tt24-mobile",
+			"",
+			"</div>",
+			"<div",
+			"wp_pagenavi",
+			"tt24-mobile",
+			"<b>Miraz Mac:</b>",
+			"<b>Muhammad Subel:</b>",
+			"Muhammad Subel:",
+			"Miraz Mac:",
+			":)",
+			"'before_title' => '<h4 class=\"widgettitle\">',",
+			"mirazmac-pro",
+			"MirazMac Pro Options",
+			"mirazmac-pro",
+			"Lora",
+			"mac-mobile",
+			"MacMobile Options",
+			"mac-mobile",
+			"url('fonts/",
+			"#main-nav",
+			"#top-nav"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app-lib/classes/cricket.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3395,
+								3395
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2331.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "detail.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								800,
+								800
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 133.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app-static/opencric.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								400,
+								400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app-lib/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								202
+							]
+						],
+						"settings":
+						{
+							"spell_check": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app-lib/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1091,
+								1091
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 70.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "OpenCric 2.0.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
