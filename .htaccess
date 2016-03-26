@@ -1,6 +1,5 @@
 ## Created by Miraz Mac for OpenCric.
 RewriteEngine On
+# Uncomment the line below if the URLs doesn't works
 #RewriteBase /
-RewriteRule ^fixtures.html$ fixtures.php [L]
-RewriteRule ^ranking.html$ ranking.php [L]
 RewriteRule ^expand/(.*?)/([0-9]+).html$ detail.php?id=$2 [NC,L]
