@@ -1,6 +1,9 @@
 <?php
 /**
-* To grab the contents from 
+* Main Class for OpenCric
+* @author Miraz Mac <mirazmac@gmail.com>
+* @version 2.0
+* @link http://mirazmac.info
 */
 class Miraz_Cricket
 {

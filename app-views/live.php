@@ -1,11 +1,7 @@
-<?php 
-ini_set('xdebug.var_display_max_depth', -1);
-ini_set('xdebug.var_display_max_children', -1);
-ini_set('xdebug.var_display_max_data', -1);
-?>
 <div class="wrap match_details_area">
  <div class="heading">
  	<?php echo $matchDetails->match->team1_abbreviation;?> vs. <?php echo $matchDetails->match->team2_abbreviation;?>
+    <a href="javascript:void()" class="refreshIcon"  onClick="window.location.href=window.location.href"><img src="<?php echo $_SITE['url'];?>/app-static/refresh.png" alt="Refresh"></a>
  	</div>
  	<div class="current_score">
  		<?php echo $matchDetails->match->current_summary;?>
