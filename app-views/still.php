@@ -18,8 +18,8 @@
  Squad
 </div>
  <?php
-
- foreach($matchDetails->team[0]->squad as $team1_player):?>
+$team1=(isset($matchDetails->team[0]->squad) ? $matchDetails->team[0]->squad : $matchDetails->team[0]->player);
+ foreach($team1 as $team1_player):?>
 <div class="player_list"><?php echo $team1_player->known_as;?>
 <?php
 // Check if player is skipper
@@ -37,8 +37,8 @@ if($team1_player->captain == '1'):?>
  Squad
 </div>
  <?php
-
- foreach($matchDetails->team[1]->squad as $team2_player):?>
+$team2=(isset($matchDetails->team[1]->squad) ? $matchDetails->team[1]->squad : $matchDetails->team[1]->player);
+ foreach($team2 as $team2_player):?>
 <div class="player_list"><?php echo $team2_player->known_as;?>
 <?php
 // Check if player is skipper

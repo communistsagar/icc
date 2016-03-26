@@ -1,3 +1,8 @@
+<?php 
+ini_set('xdebug.var_display_max_depth', -1);
+ini_set('xdebug.var_display_max_children', -1);
+ini_set('xdebug.var_display_max_data', -1);
+?>
 <div class="wrap match_details_area">
  <div class="heading">
  	<?php echo $matchDetails->match->team1_abbreviation;?> vs. <?php echo $matchDetails->match->team2_abbreviation;?>
@@ -9,7 +14,7 @@
  		<?php echo $matchDetails->live->status;?>
  	</div>
  </div>
-
+<?php if($matchDetails->centre->batting):?>
  <div class="wrap match_details_batting_area">
  <div class="heading">Current Batting</div>
     <table class="b_table">
@@ -88,3 +93,4 @@
         </tbody>
     </table>
     </div>
+<?php endif;?>

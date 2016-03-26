@@ -51,10 +51,9 @@ if(!empty($data)):?>
     	<p class="resultText">
     	<?php echo $match->result;?>
     	</p>
-    	<a class="btn full_score_btn" href="<?php echo $_SITE['url'].'/expand'.$match->url.'/'.$match->urlID;?>.html">Full Scorecard</a>
-    <?php else:?>
-    <a class="btn ball_by_ball_btn" href="<?php echo $_SITE['url'].'/expand'.$match->url.'/'.$match->urlID;?>.html">Ball by Ball</a>
     <?php endif;?>
+    <a class="btn ball_by_ball_btn" href="<?php echo $_SITE['url'].'/expand'.$match->url.'/'.$match->urlID;?>.html">Ball by Ball</a>
+   
     </div>
     <?php endforeach;?>
     
