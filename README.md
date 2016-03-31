@@ -23,4 +23,7 @@ $_SITE=array(
 	'fb_url' => 'http://fb.me/mirazmacofficial' // fb page/profile url
 	);
 ```
+#### Live Demo
+http://mirazmac.info/opencric 
+
 Thats all!
